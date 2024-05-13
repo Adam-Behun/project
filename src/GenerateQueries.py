@@ -1,3 +1,5 @@
+import sqlite3
+
 def parse_query(query):
     if 'books by' in query:
         author_name = query.split('books by')[-1].strip()
@@ -5,7 +7,7 @@ def parse_query(query):
     return ""
 
 def get_data(sql_query):
-    conn = sqlite3.connect('data/mydatavase.db')
+    conn = sqlite3.connect('../data/mydatabase.db')
     cur = conn.cursor()
     cur.execute(sql_query)
     results = cur.fetchall()

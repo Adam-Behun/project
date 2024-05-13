@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect('data/mydatabase.db')
+conn = sqlite3.connect('../data/mydatabase.db') # when running from src folder
 
 cur = conn.cursor()
 
