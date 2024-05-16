@@ -1,5 +1,5 @@
 streamlit
 transformers
 torch
-sqlite3
 pandas
+sentencepiece
