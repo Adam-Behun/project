@@ -25,31 +25,30 @@ def main():
         """
         <div class="header">
             <h1 style="text-align: center;">SQL Query Generator 🤖</h1>
-            <h3 style="text-align: center;">Generate SQL queries with ease!</h3>
-            <p style="text-align: center;">This tool allows you to generate SQL queries based on your prompt.</p>
+            <h3 style="text-align: center;">Talk to your SQL database</h3>
         </div>
         """, unsafe_allow_html=True)        
     
-    input_text = st.text_area('Enter your query')
+    input_text = st.text_area('What would you like to learn from your database?')
 
-    submit = st.button('Generate SQL Query', keys='generate_button')
+    submit = st.button('Generate SQL Query', key='generate_button')
 
     if submit:
         with st.spinner('Generating SQL query'):
             sql_query = translate_to_sql(input_text)
-            st.headr('Model response')
+            st.header('Model response')
             st.success('Generated successfully')
             st.write(sql_query)
 
             try:
-                df.execute_sql_query(sql_query)
+                df = execute_sql_query(sql_query)
                 st.success('Output')
                 st.dataframe(df)
 
                 st.success('Explanation of the query')
                 st.write(f"Query retries the following data: {input_text}")
             except Exception as e:
-                st.error(f"Error executing qurey: {e}")
+                st.error(f"Error executing query: {e}")
 
 if __name__ == '__main__':
     main()
