@@ -123,3 +123,27 @@ export function blocksPremiumTaxCredit(result: AffordabilityResult): boolean {
 function round2(n: number): number {
   return Math.round(n * 100) / 100;
 }
+
+/**
+ * Solve the affordability test for wages: the lowest annual wage at which an
+ * offer of this allowance, against this lowest-cost silver premium, is
+ * affordable.
+ *
+ * This is the form the employer view needs. A class-average wage cannot
+ * reproduce a per-household affordability count -- the households inside a
+ * class have different premiums and different pay -- so rather than invent a
+ * class wage, the employer view states the threshold the design implies:
+ * "at this allowance, an employee in this class needs to earn at least $X".
+ * Nothing is assumed about what anyone actually earns.
+ */
+export function requiredWageForAffordability(
+  lowestCostSilverMonthly: number,
+  allowanceMonthly: number,
+  percentage: number = ICHRA_AFFORDABILITY_PCT,
+): number {
+  const required = Math.max(0, lowestCostSilverMonthly - allowanceMonthly);
+  if (required === 0) return 0;
+  // Round up, not to nearest: this is the LOWEST wage that passes, so rounding
+  // down would return a wage that fails the very test it answers.
+  return Math.ceil(((required * 12) / percentage) * 100) / 100;
+}

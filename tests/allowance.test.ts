@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { affordability, allowanceFor, blocksPremiumTaxCredit } from '../src/engine/allowance.js';
+import { affordability, allowanceFor, blocksPremiumTaxCredit, requiredWageForAffordability } from '../src/engine/allowance.js';
 import { AFFORDABILITY_PCT_2026, ICHRA_AFFORDABILITY_PCT } from '../src/engine/constants.js';
 
 describe('the 2027 affordability percentage', () => {
@@ -116,5 +116,35 @@ describe('the interaction with the premium tax credit', () => {
     const unaffordableOffer = affordability({ lowestCostSilverMonthly: 800, allowanceMonthly: 100, annualWages: 60000 });
     expect(blocksPremiumTaxCredit(affordableOffer)).toBe(true);
     expect(blocksPremiumTaxCredit(unaffordableOffer)).toBe(false);
+  });
+});
+
+describe('solving the test for wages', () => {
+  it('finds the wage at which an offer becomes affordable', () => {
+    // $822 silver, 60% allowance -> $328.80/mo employee share
+    // -> $3,945.60/yr / 0.1022 = $38,606 of wages.
+    const wage = requiredWageForAffordability(822, 822 * 0.6);
+    expect(wage).toBeCloseTo(38606.26, 0);
+    // The returned wage must itself pass, so the threshold rounds up.
+    expect(affordability({
+      lowestCostSilverMonthly: 822, allowanceMonthly: 822 * 0.6, annualWages: wage,
+    }).affordable).toBe(true);
+  });
+
+  it('is one dollar of wages away from failing', () => {
+    const wage = requiredWageForAffordability(822, 822 * 0.6);
+    expect(affordability({
+      lowestCostSilverMonthly: 822, allowanceMonthly: 822 * 0.6, annualWages: wage - 100,
+    }).affordable).toBe(false);
+  });
+
+  it('needs no wage at all when the allowance covers the premium', () => {
+    expect(requiredWageForAffordability(822, 900)).toBe(0);
+  });
+
+  it('falls as the allowance rises', () => {
+    const low = requiredWageForAffordability(822, 822 * 0.6);
+    const high = requiredWageForAffordability(822, 822 * 0.9);
+    expect(high).toBeLessThan(low);
   });
 });
