@@ -1,0 +1,25 @@
+{
+  "generic": {
+    "id": "generic",
+    "name": "Generic medication",
+    "allowedAmount": 18,
+    "kind": "generic"
+  },
+  "insulin": {
+    "id": "insulin",
+    "name": "Humulin 70/30 (insulin)",
+    "allowedAmount": 340,
+    "kind": "insulin"
+  },
+  "envarsus": {
+    "id": "envarsus",
+    "name": "Envarsus XR (tacrolimus, anti-rejection)",
+    "allowedAmount": 1100,
+    "kind": "specialty",
+    "alternative": {
+      "name": "generic immediate-release tacrolimus",
+      "allowedAmount": 60,
+      "kind": "generic"
+    }
+  }
+}

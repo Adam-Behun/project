@@ -1,0 +1,3253 @@
+{
+  "planYear": 2027,
+  "classes": {
+    "nj_sal": {
+      "0.60|premiums_only|lowest_cost_silver": {
+        "employerCost": 1526973,
+        "employeeCost": 1431601,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1433373,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|guided_best_fit": {
+        "employerCost": 1526973,
+        "employeeCost": 1016679,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 29,
+        "allowanceTotal": 1433373,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|lowest_cost_gold": {
+        "employerCost": 1526973,
+        "employeeCost": 1886399,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1433373,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1526973,
+        "employeeCost": 1431601,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1433373,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1526973,
+        "employeeCost": 1016679,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 29,
+        "allowanceTotal": 1433373,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1526973,
+        "employeeCost": 1886399,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1433373,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_silver": {
+        "employerCost": 1646420,
+        "employeeCost": 1312154,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1552820,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|guided_best_fit": {
+        "employerCost": 1646420,
+        "employeeCost": 897231,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 35,
+        "allowanceTotal": 1552820,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_gold": {
+        "employerCost": 1646420,
+        "employeeCost": 1766952,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1552820,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1646420,
+        "employeeCost": 1312154,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1552820,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1646420,
+        "employeeCost": 897231,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 35,
+        "allowanceTotal": 1552820,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1646420,
+        "employeeCost": 1766952,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1552820,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_silver": {
+        "employerCost": 1765868,
+        "employeeCost": 1192706,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 23,
+        "allowanceTotal": 1672268,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|guided_best_fit": {
+        "employerCost": 1765868,
+        "employeeCost": 777783,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 45,
+        "allowanceTotal": 1672268,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_gold": {
+        "employerCost": 1765868,
+        "employeeCost": 1647504,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1672268,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1765868,
+        "employeeCost": 1192706,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 23,
+        "allowanceTotal": 1672268,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1765868,
+        "employeeCost": 777783,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 45,
+        "allowanceTotal": 1672268,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1765868,
+        "employeeCost": 1647504,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1672268,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_silver": {
+        "employerCost": 1885316,
+        "employeeCost": 1073258,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 25,
+        "allowanceTotal": 1791716,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|guided_best_fit": {
+        "employerCost": 1885316,
+        "employeeCost": 658336,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 58,
+        "allowanceTotal": 1791716,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_gold": {
+        "employerCost": 1885316,
+        "employeeCost": 1528056,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 22,
+        "allowanceTotal": 1791716,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1885316,
+        "employeeCost": 1073258,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 25,
+        "allowanceTotal": 1791716,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1885316,
+        "employeeCost": 658336,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 58,
+        "allowanceTotal": 1791716,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1885316,
+        "employeeCost": 1528056,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 22,
+        "allowanceTotal": 1791716,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_silver": {
+        "employerCost": 2004764,
+        "employeeCost": 953810,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 1911164,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|guided_best_fit": {
+        "employerCost": 2004764,
+        "employeeCost": 538888,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 73,
+        "allowanceTotal": 1911164,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_gold": {
+        "employerCost": 2004764,
+        "employeeCost": 1408609,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 22,
+        "allowanceTotal": 1911164,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 2004764,
+        "employeeCost": 953810,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 1911164,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|guided_best_fit": {
+        "employerCost": 2004764,
+        "employeeCost": 538888,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 73,
+        "allowanceTotal": 1911164,
+        "unusedAllowance": 0,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 2004764,
+        "employeeCost": 1408609,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 22,
+        "allowanceTotal": 1911164,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_silver": {
+        "employerCost": 2124211,
+        "employeeCost": 834363,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 39,
+        "allowanceTotal": 2030611,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|guided_best_fit": {
+        "employerCost": 2121592,
+        "employeeCost": 425091,
+        "totalCost": 2546684,
+        "sameOrBetterOff": 127,
+        "allowanceTotal": 2030611,
+        "unusedAllowance": 2619,
+        "onExchange": 105,
+        "metalPicks": {
+          "bronze": 107,
+          "silver": 49,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_gold": {
+        "employerCost": 2124211,
+        "employeeCost": 1289161,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 23,
+        "allowanceTotal": 2030611,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 2124211,
+        "employeeCost": 834363,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 39,
+        "allowanceTotal": 2030611,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|guided_best_fit": {
+        "employerCost": 2122687,
+        "employeeCost": 420965,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 128,
+        "allowanceTotal": 2030611,
+        "unusedAllowance": 1525,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 2124211,
+        "employeeCost": 1289161,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 23,
+        "allowanceTotal": 2030611,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_silver": {
+        "employerCost": 2243659,
+        "employeeCost": 714915,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 46,
+        "allowanceTotal": 2150059,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|guided_best_fit": {
+        "employerCost": 2211316,
+        "employeeCost": 346405,
+        "totalCost": 2557721,
+        "sameOrBetterOff": 145,
+        "allowanceTotal": 2150059,
+        "unusedAllowance": 32343,
+        "onExchange": 75,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 80,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_gold": {
+        "employerCost": 2243659,
+        "employeeCost": 1169713,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 2150059,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 2243659,
+        "employeeCost": 714915,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 46,
+        "allowanceTotal": 2150059,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|guided_best_fit": {
+        "employerCost": 2225531,
+        "employeeCost": 318120,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 151,
+        "allowanceTotal": 2150059,
+        "unusedAllowance": 18128,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 2243659,
+        "employeeCost": 1169713,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 2150059,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_silver": {
+        "employerCost": 2363107,
+        "employeeCost": 595467,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 69,
+        "allowanceTotal": 2269507,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|guided_best_fit": {
+        "employerCost": 2357941,
+        "employeeCost": 290822,
+        "totalCost": 2648763,
+        "sameOrBetterOff": 156,
+        "allowanceTotal": 2269507,
+        "unusedAllowance": 5165,
+        "onExchange": 1,
+        "metalPicks": {
+          "bronze": 1,
+          "silver": 155,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_gold": {
+        "employerCost": 2363107,
+        "employeeCost": 1050265,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 33,
+        "allowanceTotal": 2269507,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 2363107,
+        "employeeCost": 595467,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 69,
+        "allowanceTotal": 2269507,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|guided_best_fit": {
+        "employerCost": 2307231,
+        "employeeCost": 236421,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 156,
+        "allowanceTotal": 2269507,
+        "unusedAllowance": 55876,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 2363107,
+        "employeeCost": 1050265,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 33,
+        "allowanceTotal": 2269507,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_silver": {
+        "employerCost": 2482555,
+        "employeeCost": 476020,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 109,
+        "allowanceTotal": 2388955,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|guided_best_fit": {
+        "employerCost": 2380077,
+        "employeeCost": 274951,
+        "totalCost": 2655028,
+        "sameOrBetterOff": 156,
+        "allowanceTotal": 2388955,
+        "unusedAllowance": 102478,
+        "onExchange": 2,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_gold": {
+        "employerCost": 2482555,
+        "employeeCost": 930818,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 40,
+        "allowanceTotal": 2388955,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 2482555,
+        "employeeCost": 476020,
+        "totalCost": 2958574,
+        "sameOrBetterOff": 109,
+        "allowanceTotal": 2388955,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 156,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|guided_best_fit": {
+        "employerCost": 2366680,
+        "employeeCost": 176972,
+        "totalCost": 2543652,
+        "sameOrBetterOff": 156,
+        "allowanceTotal": 2388955,
+        "unusedAllowance": 115875,
+        "onExchange": 109,
+        "metalPicks": {
+          "bronze": 110,
+          "silver": 46,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 2482555,
+        "employeeCost": 930818,
+        "totalCost": 3413372,
+        "sameOrBetterOff": 40,
+        "allowanceTotal": 2388955,
+        "unusedAllowance": 0,
+        "onExchange": 156,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 156,
+          "platinum": 0
+        }
+      }
+    },
+    "ny_sal": {
+      "0.60|premiums_only|lowest_cost_silver": {
+        "employerCost": 1208829,
+        "employeeCost": 1012454,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1145229,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|guided_best_fit": {
+        "employerCost": 1208829,
+        "employeeCost": 745281,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 1145229,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|lowest_cost_gold": {
+        "employerCost": 1208829,
+        "employeeCost": 1631167,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 1145229,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1208829,
+        "employeeCost": 1012454,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1145229,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1208829,
+        "employeeCost": 745281,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 1145229,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1208829,
+        "employeeCost": 1631167,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 1145229,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_silver": {
+        "employerCost": 1304264,
+        "employeeCost": 917018,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 19,
+        "allowanceTotal": 1240664,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|guided_best_fit": {
+        "employerCost": 1304264,
+        "employeeCost": 649845,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 33,
+        "allowanceTotal": 1240664,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_gold": {
+        "employerCost": 1304264,
+        "employeeCost": 1535731,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 1240664,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1304264,
+        "employeeCost": 917018,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 19,
+        "allowanceTotal": 1240664,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1304264,
+        "employeeCost": 649845,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 33,
+        "allowanceTotal": 1240664,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1304264,
+        "employeeCost": 1535731,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 1240664,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_silver": {
+        "employerCost": 1399700,
+        "employeeCost": 821583,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 23,
+        "allowanceTotal": 1336100,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|guided_best_fit": {
+        "employerCost": 1399700,
+        "employeeCost": 554409,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 42,
+        "allowanceTotal": 1336100,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_gold": {
+        "employerCost": 1399700,
+        "employeeCost": 1440296,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 1336100,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1399700,
+        "employeeCost": 821583,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 23,
+        "allowanceTotal": 1336100,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1399700,
+        "employeeCost": 554409,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 42,
+        "allowanceTotal": 1336100,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1399700,
+        "employeeCost": 1440296,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 1336100,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_silver": {
+        "employerCost": 1495136,
+        "employeeCost": 726147,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 25,
+        "allowanceTotal": 1431536,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|guided_best_fit": {
+        "employerCost": 1495136,
+        "employeeCost": 458973,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 49,
+        "allowanceTotal": 1431536,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_gold": {
+        "employerCost": 1495136,
+        "employeeCost": 1344860,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1431536,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1495136,
+        "employeeCost": 726147,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 25,
+        "allowanceTotal": 1431536,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1495136,
+        "employeeCost": 458973,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 49,
+        "allowanceTotal": 1431536,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1495136,
+        "employeeCost": 1344860,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1431536,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_silver": {
+        "employerCost": 1590571,
+        "employeeCost": 630711,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 31,
+        "allowanceTotal": 1526971,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|guided_best_fit": {
+        "employerCost": 1589280,
+        "employeeCost": 364829,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 80,
+        "allowanceTotal": 1526971,
+        "unusedAllowance": 1291,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_gold": {
+        "employerCost": 1590571,
+        "employeeCost": 1249424,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 16,
+        "allowanceTotal": 1526971,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1590571,
+        "employeeCost": 630711,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 31,
+        "allowanceTotal": 1526971,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1590571,
+        "employeeCost": 363538,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 80,
+        "allowanceTotal": 1526971,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1590571,
+        "employeeCost": 1249424,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 16,
+        "allowanceTotal": 1526971,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_silver": {
+        "employerCost": 1686007,
+        "employeeCost": 535276,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 43,
+        "allowanceTotal": 1622407,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|guided_best_fit": {
+        "employerCost": 1644247,
+        "employeeCost": 322489,
+        "totalCost": 1966736,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1622407,
+        "unusedAllowance": 41760,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 103,
+          "silver": 3,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_gold": {
+        "employerCost": 1686007,
+        "employeeCost": 1153989,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 17,
+        "allowanceTotal": 1622407,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1686007,
+        "employeeCost": 535276,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 43,
+        "allowanceTotal": 1622407,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1671079,
+        "employeeCost": 283031,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 91,
+        "allowanceTotal": 1622407,
+        "unusedAllowance": 14929,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1686007,
+        "employeeCost": 1153989,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 17,
+        "allowanceTotal": 1622407,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_silver": {
+        "employerCost": 1781443,
+        "employeeCost": 439840,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 53,
+        "allowanceTotal": 1717843,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|guided_best_fit": {
+        "employerCost": 1655039,
+        "employeeCost": 310654,
+        "totalCost": 1965692,
+        "sameOrBetterOff": 86,
+        "allowanceTotal": 1717843,
+        "unusedAllowance": 126404,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 96,
+          "silver": 10,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_gold": {
+        "employerCost": 1781443,
+        "employeeCost": 1058553,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1717843,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1781443,
+        "employeeCost": 439840,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 53,
+        "allowanceTotal": 1717843,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1737620,
+        "employeeCost": 216489,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 100,
+        "allowanceTotal": 1717843,
+        "unusedAllowance": 43823,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1781443,
+        "employeeCost": 1058553,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 1717843,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_silver": {
+        "employerCost": 1876879,
+        "employeeCost": 344404,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 73,
+        "allowanceTotal": 1813279,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|guided_best_fit": {
+        "employerCost": 1744027,
+        "employeeCost": 270794,
+        "totalCost": 2014820,
+        "sameOrBetterOff": 98,
+        "allowanceTotal": 1813279,
+        "unusedAllowance": 132852,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 65,
+          "silver": 41,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_gold": {
+        "employerCost": 1876879,
+        "employeeCost": 963117,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 19,
+        "allowanceTotal": 1813279,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1876879,
+        "employeeCost": 344404,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 73,
+        "allowanceTotal": 1813279,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1794843,
+        "employeeCost": 159266,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 103,
+        "allowanceTotal": 1813279,
+        "unusedAllowance": 82035,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1876879,
+        "employeeCost": 963117,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 19,
+        "allowanceTotal": 1813279,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_silver": {
+        "employerCost": 1972314,
+        "employeeCost": 248968,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 101,
+        "allowanceTotal": 1908714,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|guided_best_fit": {
+        "employerCost": 1957110,
+        "employeeCost": 212456,
+        "totalCost": 2169566,
+        "sameOrBetterOff": 105,
+        "allowanceTotal": 1908714,
+        "unusedAllowance": 15204,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 6,
+          "silver": 100,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_gold": {
+        "employerCost": 1972314,
+        "employeeCost": 867681,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 21,
+        "allowanceTotal": 1908714,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1972314,
+        "employeeCost": 248968,
+        "totalCost": 2221283,
+        "sameOrBetterOff": 101,
+        "allowanceTotal": 1908714,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 106,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1841722,
+        "employeeCost": 112387,
+        "totalCost": 1954109,
+        "sameOrBetterOff": 106,
+        "allowanceTotal": 1908714,
+        "unusedAllowance": 130592,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 104,
+          "silver": 2,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1972314,
+        "employeeCost": 867681,
+        "totalCost": 2839996,
+        "sameOrBetterOff": 21,
+        "allowanceTotal": 1908714,
+        "unusedAllowance": 0,
+        "onExchange": 106,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 106,
+          "platinum": 0
+        }
+      }
+    },
+    "nj_hr": {
+      "0.60|premiums_only|lowest_cost_silver": {
+        "employerCost": 631813,
+        "employeeCost": 592258,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 6,
+        "allowanceTotal": 595213,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|guided_best_fit": {
+        "employerCost": 631813,
+        "employeeCost": 426979,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 11,
+        "allowanceTotal": 595213,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|lowest_cost_gold": {
+        "employerCost": 631813,
+        "employeeCost": 796219,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 3,
+        "allowanceTotal": 595213,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 631813,
+        "employeeCost": 592258,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 6,
+        "allowanceTotal": 595213,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|guided_best_fit": {
+        "employerCost": 631813,
+        "employeeCost": 426979,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 11,
+        "allowanceTotal": 595213,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 631813,
+        "employeeCost": 796219,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 3,
+        "allowanceTotal": 595213,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_silver": {
+        "employerCost": 681414,
+        "employeeCost": 542657,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 6,
+        "allowanceTotal": 644814,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|guided_best_fit": {
+        "employerCost": 681414,
+        "employeeCost": 377378,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 13,
+        "allowanceTotal": 644814,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_gold": {
+        "employerCost": 681414,
+        "employeeCost": 746618,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 3,
+        "allowanceTotal": 644814,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 681414,
+        "employeeCost": 542657,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 6,
+        "allowanceTotal": 644814,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|guided_best_fit": {
+        "employerCost": 681414,
+        "employeeCost": 377378,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 13,
+        "allowanceTotal": 644814,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 681414,
+        "employeeCost": 746618,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 3,
+        "allowanceTotal": 644814,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_silver": {
+        "employerCost": 731015,
+        "employeeCost": 493056,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 8,
+        "allowanceTotal": 694415,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|guided_best_fit": {
+        "employerCost": 731015,
+        "employeeCost": 327777,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 694415,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_gold": {
+        "employerCost": 731015,
+        "employeeCost": 697017,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 3,
+        "allowanceTotal": 694415,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 731015,
+        "employeeCost": 493056,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 8,
+        "allowanceTotal": 694415,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|guided_best_fit": {
+        "employerCost": 731015,
+        "employeeCost": 327777,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 18,
+        "allowanceTotal": 694415,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 731015,
+        "employeeCost": 697017,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 3,
+        "allowanceTotal": 694415,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_silver": {
+        "employerCost": 780616,
+        "employeeCost": 443455,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 10,
+        "allowanceTotal": 744016,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|guided_best_fit": {
+        "employerCost": 780616,
+        "employeeCost": 278175,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 24,
+        "allowanceTotal": 744016,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_gold": {
+        "employerCost": 780616,
+        "employeeCost": 647416,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 4,
+        "allowanceTotal": 744016,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 780616,
+        "employeeCost": 443455,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 10,
+        "allowanceTotal": 744016,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|guided_best_fit": {
+        "employerCost": 780616,
+        "employeeCost": 278175,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 24,
+        "allowanceTotal": 744016,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 780616,
+        "employeeCost": 647416,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 4,
+        "allowanceTotal": 744016,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_silver": {
+        "employerCost": 830217,
+        "employeeCost": 393853,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 12,
+        "allowanceTotal": 793617,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|guided_best_fit": {
+        "employerCost": 830217,
+        "employeeCost": 228574,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 32,
+        "allowanceTotal": 793617,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_gold": {
+        "employerCost": 830217,
+        "employeeCost": 597815,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 5,
+        "allowanceTotal": 793617,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 830217,
+        "employeeCost": 393853,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 12,
+        "allowanceTotal": 793617,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|guided_best_fit": {
+        "employerCost": 830217,
+        "employeeCost": 228574,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 32,
+        "allowanceTotal": 793617,
+        "unusedAllowance": 0,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 830217,
+        "employeeCost": 597815,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 5,
+        "allowanceTotal": 793617,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_silver": {
+        "employerCost": 879818,
+        "employeeCost": 344252,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 843218,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|guided_best_fit": {
+        "employerCost": 879178,
+        "employeeCost": 184389,
+        "totalCost": 1063567,
+        "sameOrBetterOff": 53,
+        "allowanceTotal": 843218,
+        "unusedAllowance": 640,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_gold": {
+        "employerCost": 879818,
+        "employeeCost": 548214,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 5,
+        "allowanceTotal": 843218,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 879818,
+        "employeeCost": 344252,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 843218,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|guided_best_fit": {
+        "employerCost": 879470,
+        "employeeCost": 179322,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 54,
+        "allowanceTotal": 843218,
+        "unusedAllowance": 349,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 879818,
+        "employeeCost": 548214,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 5,
+        "allowanceTotal": 843218,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_silver": {
+        "employerCost": 929419,
+        "employeeCost": 294651,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 21,
+        "allowanceTotal": 892819,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|guided_best_fit": {
+        "employerCost": 910847,
+        "employeeCost": 151802,
+        "totalCost": 1062649,
+        "sameOrBetterOff": 58,
+        "allowanceTotal": 892819,
+        "unusedAllowance": 18572,
+        "onExchange": 45,
+        "metalPicks": {
+          "bronze": 45,
+          "silver": 16,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_gold": {
+        "employerCost": 929419,
+        "employeeCost": 498613,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 9,
+        "allowanceTotal": 892819,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 929419,
+        "employeeCost": 294651,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 21,
+        "allowanceTotal": 892819,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|guided_best_fit": {
+        "employerCost": 923266,
+        "employeeCost": 135526,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 59,
+        "allowanceTotal": 892819,
+        "unusedAllowance": 6153,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 929419,
+        "employeeCost": 498613,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 9,
+        "allowanceTotal": 892819,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_silver": {
+        "employerCost": 979020,
+        "employeeCost": 245050,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 32,
+        "allowanceTotal": 942420,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|guided_best_fit": {
+        "employerCost": 974304,
+        "employeeCost": 133577,
+        "totalCost": 1107881,
+        "sameOrBetterOff": 61,
+        "allowanceTotal": 942420,
+        "unusedAllowance": 4716,
+        "onExchange": 1,
+        "metalPicks": {
+          "bronze": 1,
+          "silver": 60,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_gold": {
+        "employerCost": 979020,
+        "employeeCost": 449012,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 11,
+        "allowanceTotal": 942420,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 979020,
+        "employeeCost": 245050,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 32,
+        "allowanceTotal": 942420,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|guided_best_fit": {
+        "employerCost": 956555,
+        "employeeCost": 102236,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 61,
+        "allowanceTotal": 942420,
+        "unusedAllowance": 22465,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 979020,
+        "employeeCost": 449012,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 11,
+        "allowanceTotal": 942420,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_silver": {
+        "employerCost": 1028622,
+        "employeeCost": 195449,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 44,
+        "allowanceTotal": 992022,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|guided_best_fit": {
+        "employerCost": 985681,
+        "employeeCost": 131173,
+        "totalCost": 1116854,
+        "sameOrBetterOff": 61,
+        "allowanceTotal": 992022,
+        "unusedAllowance": 42940,
+        "onExchange": 1,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_gold": {
+        "employerCost": 1028622,
+        "employeeCost": 399411,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 17,
+        "allowanceTotal": 992022,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1028622,
+        "employeeCost": 195449,
+        "totalCost": 1224071,
+        "sameOrBetterOff": 44,
+        "allowanceTotal": 992022,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 61,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|guided_best_fit": {
+        "employerCost": 982530,
+        "employeeCost": 76262,
+        "totalCost": 1058792,
+        "sameOrBetterOff": 61,
+        "allowanceTotal": 992022,
+        "unusedAllowance": 46092,
+        "onExchange": 52,
+        "metalPicks": {
+          "bronze": 53,
+          "silver": 8,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1028622,
+        "employeeCost": 399411,
+        "totalCost": 1428032,
+        "sameOrBetterOff": 17,
+        "allowanceTotal": 992022,
+        "unusedAllowance": 0,
+        "onExchange": 61,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 61,
+          "platinum": 0
+        }
+      }
+    },
+    "tx_hr": {
+      "0.60|premiums_only|lowest_cost_silver": {
+        "employerCost": 882223,
+        "employeeCost": 722612,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 7,
+        "allowanceTotal": 831823,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|guided_best_fit": {
+        "employerCost": 882223,
+        "employeeCost": 263016,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 44,
+        "allowanceTotal": 831823,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_only|lowest_cost_gold": {
+        "employerCost": 882223,
+        "employeeCost": 523577,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 11,
+        "allowanceTotal": 831823,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 882223,
+        "employeeCost": 722612,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 7,
+        "allowanceTotal": 831823,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|guided_best_fit": {
+        "employerCost": 882223,
+        "employeeCost": 263016,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 44,
+        "allowanceTotal": 831823,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.60|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 882223,
+        "employeeCost": 523577,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 11,
+        "allowanceTotal": 831823,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_silver": {
+        "employerCost": 951541,
+        "employeeCost": 653293,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 9,
+        "allowanceTotal": 901141,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|guided_best_fit": {
+        "employerCost": 945756,
+        "employeeCost": 199483,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 74,
+        "allowanceTotal": 901141,
+        "unusedAllowance": 5785,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_only|lowest_cost_gold": {
+        "employerCost": 951541,
+        "employeeCost": 454258,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 901141,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 951541,
+        "employeeCost": 653293,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 9,
+        "allowanceTotal": 901141,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|guided_best_fit": {
+        "employerCost": 950203,
+        "employeeCost": 195036,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 75,
+        "allowanceTotal": 901141,
+        "unusedAllowance": 1338,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.65|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 951541,
+        "employeeCost": 454258,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 14,
+        "allowanceTotal": 901141,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_silver": {
+        "employerCost": 1020860,
+        "employeeCost": 583975,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 10,
+        "allowanceTotal": 970460,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|guided_best_fit": {
+        "employerCost": 961249,
+        "employeeCost": 184520,
+        "totalCost": 1145769,
+        "sameOrBetterOff": 74,
+        "allowanceTotal": 970460,
+        "unusedAllowance": 59611,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 72,
+          "silver": 1,
+          "gold": 11,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_only|lowest_cost_gold": {
+        "employerCost": 1020860,
+        "employeeCost": 384939,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 19,
+        "allowanceTotal": 970460,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1020860,
+        "employeeCost": 583975,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 10,
+        "allowanceTotal": 970460,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|guided_best_fit": {
+        "employerCost": 996783,
+        "employeeCost": 148456,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 78,
+        "allowanceTotal": 970460,
+        "unusedAllowance": 24077,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.70|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1020860,
+        "employeeCost": 384939,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 19,
+        "allowanceTotal": 970460,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_silver": {
+        "employerCost": 1090179,
+        "employeeCost": 514656,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 10,
+        "allowanceTotal": 1039779,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|guided_best_fit": {
+        "employerCost": 983448,
+        "employeeCost": 182059,
+        "totalCost": 1165507,
+        "sameOrBetterOff": 71,
+        "allowanceTotal": 1039779,
+        "unusedAllowance": 106730,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 61,
+          "silver": 1,
+          "gold": 22,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_only|lowest_cost_gold": {
+        "employerCost": 1090179,
+        "employeeCost": 315621,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 1039779,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1090179,
+        "employeeCost": 514656,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 10,
+        "allowanceTotal": 1039779,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1030009,
+        "employeeCost": 115230,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 82,
+        "allowanceTotal": 1039779,
+        "unusedAllowance": 60170,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.75|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1090179,
+        "employeeCost": 315621,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 27,
+        "allowanceTotal": 1039779,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_silver": {
+        "employerCost": 1159497,
+        "employeeCost": 445337,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 13,
+        "allowanceTotal": 1109097,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|guided_best_fit": {
+        "employerCost": 1061938,
+        "employeeCost": 163615,
+        "totalCost": 1225553,
+        "sameOrBetterOff": 73,
+        "allowanceTotal": 1109097,
+        "unusedAllowance": 97559,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 39,
+          "silver": 1,
+          "gold": 44,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_only|lowest_cost_gold": {
+        "employerCost": 1159497,
+        "employeeCost": 246302,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 50,
+        "allowanceTotal": 1109097,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1159497,
+        "employeeCost": 445337,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 13,
+        "allowanceTotal": 1109097,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1055718,
+        "employeeCost": 89521,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 83,
+        "allowanceTotal": 1109097,
+        "unusedAllowance": 103780,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.80|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1159497,
+        "employeeCost": 246302,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 50,
+        "allowanceTotal": 1109097,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_silver": {
+        "employerCost": 1228816,
+        "employeeCost": 376019,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1178416,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|guided_best_fit": {
+        "employerCost": 1194873,
+        "employeeCost": 134507,
+        "totalCost": 1329379,
+        "sameOrBetterOff": 77,
+        "allowanceTotal": 1178416,
+        "unusedAllowance": 33943,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 11,
+          "silver": 1,
+          "gold": 72,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_only|lowest_cost_gold": {
+        "employerCost": 1228816,
+        "employeeCost": 176984,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 72,
+        "allowanceTotal": 1178416,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1228816,
+        "employeeCost": 376019,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 15,
+        "allowanceTotal": 1178416,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1078546,
+        "employeeCost": 66693,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1178416,
+        "unusedAllowance": 150270,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.85|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1228816,
+        "employeeCost": 176984,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 72,
+        "allowanceTotal": 1178416,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_silver": {
+        "employerCost": 1298134,
+        "employeeCost": 306700,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 21,
+        "allowanceTotal": 1247734,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|guided_best_fit": {
+        "employerCost": 1258736,
+        "employeeCost": 106897,
+        "totalCost": 1365633,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1247734,
+        "unusedAllowance": 39398,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 1,
+          "silver": 2,
+          "gold": 81,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_only|lowest_cost_gold": {
+        "employerCost": 1258761,
+        "employeeCost": 147039,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 81,
+        "allowanceTotal": 1247734,
+        "unusedAllowance": 39373,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1298134,
+        "employeeCost": 306700,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 21,
+        "allowanceTotal": 1247734,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1096966,
+        "employeeCost": 48273,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1247734,
+        "unusedAllowance": 201168,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.90|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1283097,
+        "employeeCost": 122703,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 82,
+        "allowanceTotal": 1247734,
+        "unusedAllowance": 15038,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_silver": {
+        "employerCost": 1367453,
+        "employeeCost": 237382,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 47,
+        "allowanceTotal": 1317053,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|guided_best_fit": {
+        "employerCost": 1271025,
+        "employeeCost": 102356,
+        "totalCost": 1373382,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1317053,
+        "unusedAllowance": 96427,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 3,
+          "gold": 81,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_only|lowest_cost_gold": {
+        "employerCost": 1260719,
+        "employeeCost": 145080,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 81,
+        "allowanceTotal": 1317053,
+        "unusedAllowance": 106734,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1367453,
+        "employeeCost": 237382,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 47,
+        "allowanceTotal": 1317053,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1110770,
+        "employeeCost": 34469,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1317053,
+        "unusedAllowance": 256683,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "0.95|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1316074,
+        "employeeCost": 89726,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 83,
+        "allowanceTotal": 1317053,
+        "unusedAllowance": 51379,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_silver": {
+        "employerCost": 1436771,
+        "employeeCost": 168063,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 75,
+        "allowanceTotal": 1386371,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|guided_best_fit": {
+        "employerCost": 1289764,
+        "employeeCost": 95315,
+        "totalCost": 1385079,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1386371,
+        "unusedAllowance": 147007,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 9,
+          "gold": 75,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_only|lowest_cost_gold": {
+        "employerCost": 1260719,
+        "employeeCost": 145080,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 81,
+        "allowanceTotal": 1386371,
+        "unusedAllowance": 176052,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_silver": {
+        "employerCost": 1436771,
+        "employeeCost": 168063,
+        "totalCost": 1604835,
+        "sameOrBetterOff": 75,
+        "allowanceTotal": 1386371,
+        "unusedAllowance": 0,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 84,
+          "gold": 0,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|guided_best_fit": {
+        "employerCost": 1121877,
+        "employeeCost": 23362,
+        "totalCost": 1145239,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1386371,
+        "unusedAllowance": 314894,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 76,
+          "silver": 1,
+          "gold": 7,
+          "platinum": 0
+        }
+      },
+      "1.00|premiums_and_bills|lowest_cost_gold": {
+        "employerCost": 1339303,
+        "employeeCost": 66497,
+        "totalCost": 1405799,
+        "sameOrBetterOff": 84,
+        "allowanceTotal": 1386371,
+        "unusedAllowance": 97469,
+        "onExchange": 84,
+        "metalPicks": {
+          "bronze": 0,
+          "silver": 0,
+          "gold": 84,
+          "platinum": 0
+        }
+      }
+    }
+  }
+}

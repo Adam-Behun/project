@@ -1,0 +1,12 @@
+{
+  "preventive": 0,
+  "pcp": 165,
+  "specialist": 275,
+  "labs": 85,
+  "imaging": 450,
+  "imaging_adv": 1300,
+  "er": 2600,
+  "admission": 24000,
+  "delivery": 16000,
+  "csection_addon": 6000
+}
