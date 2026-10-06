@@ -1,0 +1,137 @@
+{
+  "name": "Harbor & Pine Logistics",
+  "employees": 500,
+  "enrolledHouseholds": 407,
+  "coveredMembers": 775,
+  "planYear": 2027,
+  "allowanceShares": [
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+  ],
+  "betterOffMargin": 250,
+  "adminCostPerEmployeeMonth": 50.0,
+  "meta": {
+    "planYear": 2026,
+    "trend": 1.15,
+    "affordPct": 0.1022,
+    "groupDesign": "copays",
+    "peers": 12,
+    "sources": [
+      "CMS PY2026 Exchange public use files (Texas)",
+      "NJ DOBI 2026 individual rates and carrier SBCs (New Jersey)",
+      "NY State of Health 2026 plan search and plan details (New York)"
+    ]
+  },
+  "partTime": {
+    "id": "pt",
+    "name": "Part-time, all locations",
+    "employees": 40,
+    "monthlyAllowance": 250,
+    "assumedTakeUp": 0.55
+  },
+  "classes": [
+    {
+      "id": "nj_sal",
+      "name": "Salaried, New Jersey",
+      "state": "NJ",
+      "employees": 180,
+      "enrolled": 156,
+      "members": 299,
+      "averageAge": 32,
+      "lowestCostSilverAvgMonthly": 785,
+      "counties": {
+        "Essex County": 156
+      },
+      "plansConsidered": 10,
+      "groupPlan": {
+        "employerCost": 2292365,
+        "employeeCost": 776368,
+        "totalCost": 3068733
+      },
+      "careFlagged": 38,
+      "careFlaggedHighRisk": 4
+    },
+    {
+      "id": "ny_sal",
+      "name": "Salaried, New York",
+      "state": "NY",
+      "employees": 120,
+      "enrolled": 106,
+      "members": 208,
+      "averageAge": 33,
+      "lowestCostSilverAvgMonthly": 929,
+      "counties": {
+        "Queens County": 30,
+        "New York County": 26,
+        "Kings County": 21,
+        "Bronx County": 19,
+        "Richmond County": 8,
+        "Nassau County": 2
+      },
+      "plansConsidered": 12,
+      "groupPlan": {
+        "employerCost": 2142876,
+        "employeeCost": 682990,
+        "totalCost": 2825866
+      },
+      "careFlagged": 34,
+      "careFlaggedHighRisk": 7
+    },
+    {
+      "id": "nj_hr",
+      "name": "Hourly, New Jersey",
+      "state": "NJ",
+      "employees": 68,
+      "enrolled": 61,
+      "members": 118,
+      "averageAge": 34,
+      "lowestCostSilverAvgMonthly": 822,
+      "counties": {
+        "Essex County": 61
+      },
+      "plansConsidered": 10,
+      "groupPlan": {
+        "employerCost": 1036808,
+        "employeeCost": 349049,
+        "totalCost": 1385857
+      },
+      "careFlagged": 26,
+      "careFlaggedHighRisk": 4
+    },
+    {
+      "id": "tx_hr",
+      "name": "Hourly, Texas",
+      "state": "TX",
+      "employees": 92,
+      "enrolled": 84,
+      "members": 150,
+      "averageAge": 32,
+      "lowestCostSilverAvgMonthly": 873,
+      "counties": {
+        "Harris County": 37,
+        "Dallas County": 35,
+        "Fort Bend County": 5,
+        "Collin County": 3,
+        "Denton County": 2,
+        "Montgomery County": 1,
+        "Galveston County": 1
+      },
+      "plansConsidered": 9,
+      "groupPlan": {
+        "employerCost": 965198,
+        "employeeCost": 319960,
+        "totalCost": 1285157
+      },
+      "careFlagged": 17,
+      "careFlaggedHighRisk": 3
+    }
+  ],
+  "_dataNote": "Class metadata and the group-plan baseline are inputs. The per-class ICHRA outcomes in class-outcomes.json are output from the household-level model described in meta.sources, which ran against real county plan data not redistributed here. Everything else -- allowance amounts, the affordability threshold, class savings, the design search, the rules checks and small-cell suppression -- is computed live by src/engine/."
+}

@@ -1,0 +1,399 @@
+{
+  "id": "houston-sample-2026",
+  "label": "Eight sample Houston-area plans, 2026 levels",
+  "state": "TX",
+  "planYear": 2026,
+  "premiumTrend": 1.0,
+  "networkDataIsReal": false,
+  "source": "Sample plans modelled on 2026 Houston-area marketplace plans. Premiums are anchored to KFF's 2026 Texas lowest-cost premiums for a 40-year-old (bronze $426, silver $651, gold $570) and age-rated with the federal default age curve. Deductibles, copays, networks and drug lists are sample data, not any insurer's actual plan.",
+  "plans": [
+    {
+      "id": "A",
+      "name": "Plan A",
+      "metal": "Bronze",
+      "planType": "HMO",
+      "label": "Bronze HMO",
+      "basePremium": 426,
+      "basePremiumAge": 40,
+      "deductible": 7500,
+      "coinsurance": 0.5,
+      "outOfPocketMax": 9800,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 50
+        },
+        "specialist": {
+          "kind": "deductible"
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 20
+        },
+        "brand": {
+          "kind": "deductible"
+        },
+        "er": {
+          "kind": "deductible"
+        },
+        "specialty": {
+          "kind": "deductible"
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img"
+      ],
+      "formulary": {
+        "envarsus": "not_covered"
+      }
+    },
+    {
+      "id": "B",
+      "name": "Plan B",
+      "metal": "Bronze",
+      "planType": "EPO",
+      "label": "Bronze EPO, HSA-eligible",
+      "basePremium": 452,
+      "basePremiumAge": 40,
+      "deductible": 7250,
+      "coinsurance": 0.0,
+      "outOfPocketMax": 7250,
+      "hsaEligible": true,
+      "rules": {
+        "pcp": {
+          "kind": "deductible"
+        },
+        "specialist": {
+          "kind": "deductible"
+        },
+        "generic": {
+          "kind": "deductible"
+        },
+        "brand": {
+          "kind": "deductible"
+        },
+        "er": {
+          "kind": "deductible"
+        },
+        "specialty": {
+          "kind": "deductible"
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img"
+      ],
+      "formulary": {
+        "envarsus": "pa"
+      }
+    },
+    {
+      "id": "C",
+      "name": "Plan C",
+      "metal": "Silver",
+      "planType": "HMO",
+      "label": "Silver HMO",
+      "basePremium": 651,
+      "basePremiumAge": 40,
+      "deductible": 5200,
+      "coinsurance": 0.3,
+      "outOfPocketMax": 9600,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 35
+        },
+        "specialist": {
+          "kind": "copay",
+          "amount": 80
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 15
+        },
+        "brand": {
+          "kind": "copay_after_deductible",
+          "amount": 60
+        },
+        "er": {
+          "kind": "copay_after_deductible",
+          "amount": 750
+        },
+        "specialty": {
+          "kind": "coins_after_deductible",
+          "rate": 0.4
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img"
+      ],
+      "formulary": {
+        "envarsus": "not_covered"
+      }
+    },
+    {
+      "id": "D",
+      "name": "Plan D",
+      "metal": "Silver",
+      "planType": "HMO",
+      "label": "Silver HMO",
+      "basePremium": 661,
+      "basePremiumAge": 40,
+      "deductible": 2800,
+      "coinsurance": 0.3,
+      "outOfPocketMax": 9400,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 30
+        },
+        "specialist": {
+          "kind": "copay",
+          "amount": 70
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 10
+        },
+        "brand": {
+          "kind": "copay_after_deductible",
+          "amount": 50
+        },
+        "er": {
+          "kind": "copay_after_deductible",
+          "amount": 600
+        },
+        "specialty": {
+          "kind": "coins_after_deductible",
+          "rate": 0.4
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img",
+        "onc"
+      ],
+      "formulary": {
+        "envarsus": "pa"
+      }
+    },
+    {
+      "id": "E",
+      "name": "Plan E",
+      "metal": "Silver",
+      "planType": "EPO",
+      "label": "Silver EPO",
+      "basePremium": 739,
+      "basePremiumAge": 40,
+      "deductible": 2500,
+      "coinsurance": 0.2,
+      "outOfPocketMax": 9000,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 25
+        },
+        "specialist": {
+          "kind": "copay",
+          "amount": 60
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 10
+        },
+        "brand": {
+          "kind": "copay_after_deductible",
+          "amount": 45
+        },
+        "er": {
+          "kind": "copay_after_deductible",
+          "amount": 500
+        },
+        "specialty": {
+          "kind": "coins_after_deductible",
+          "rate": 0.3
+        }
+      },
+      "network": [
+        "ob",
+        "im",
+        "eye",
+        "img",
+        "onc",
+        "transplant"
+      ],
+      "formulary": {
+        "envarsus": "pa"
+      }
+    },
+    {
+      "id": "F",
+      "name": "Plan F",
+      "metal": "Gold",
+      "planType": "HMO",
+      "label": "Gold HMO",
+      "basePremium": 570,
+      "basePremiumAge": 40,
+      "deductible": 1500,
+      "coinsurance": 0.2,
+      "outOfPocketMax": 8000,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 20
+        },
+        "specialist": {
+          "kind": "copay",
+          "amount": 50
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 5
+        },
+        "brand": {
+          "kind": "copay_after_deductible",
+          "amount": 40
+        },
+        "er": {
+          "kind": "copay_after_deductible",
+          "amount": 400
+        },
+        "specialty": {
+          "kind": "coins_after_deductible",
+          "rate": 0.3
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img"
+      ],
+      "formulary": {
+        "envarsus": "not_covered"
+      }
+    },
+    {
+      "id": "G",
+      "name": "Plan G",
+      "metal": "Gold",
+      "planType": "EPO",
+      "label": "Gold EPO",
+      "basePremium": 637,
+      "basePremiumAge": 40,
+      "deductible": 1000,
+      "coinsurance": 0.2,
+      "outOfPocketMax": 7500,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 15
+        },
+        "specialist": {
+          "kind": "copay",
+          "amount": 40
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 5
+        },
+        "brand": {
+          "kind": "copay_after_deductible",
+          "amount": 35
+        },
+        "er": {
+          "kind": "copay_after_deductible",
+          "amount": 350
+        },
+        "specialty": {
+          "kind": "copay_after_deductible",
+          "amount": 150
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img",
+        "onc",
+        "transplant"
+      ],
+      "formulary": {
+        "envarsus": "pa"
+      }
+    },
+    {
+      "id": "H",
+      "name": "Plan H",
+      "metal": "Gold",
+      "planType": "POS",
+      "label": "Gold POS",
+      "basePremium": 702,
+      "basePremiumAge": 40,
+      "deductible": 750,
+      "coinsurance": 0.15,
+      "outOfPocketMax": 6800,
+      "hsaEligible": false,
+      "rules": {
+        "pcp": {
+          "kind": "copay",
+          "amount": 15
+        },
+        "specialist": {
+          "kind": "copay",
+          "amount": 35
+        },
+        "generic": {
+          "kind": "copay",
+          "amount": 5
+        },
+        "brand": {
+          "kind": "copay_after_deductible",
+          "amount": 30
+        },
+        "er": {
+          "kind": "copay_after_deductible",
+          "amount": 300
+        },
+        "specialty": {
+          "kind": "coins_after_deductible",
+          "rate": 0.2
+        }
+      },
+      "network": [
+        "ob",
+        "hosp_ob",
+        "im",
+        "eye",
+        "img",
+        "onc",
+        "transplant"
+      ],
+      "formulary": {
+        "envarsus": "pa"
+      }
+    }
+  ]
+}

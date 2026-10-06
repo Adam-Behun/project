@@ -1,0 +1,44 @@
+{
+  "ob": {
+    "id": "ob",
+    "name": "Eastside Women's Care",
+    "role": "Obstetrician (prenatal care)",
+    "critical": true
+  },
+  "hosp_ob": {
+    "id": "hosp_ob",
+    "name": "Bayou City Medical Center",
+    "role": "Hospital where she plans to deliver",
+    "critical": true
+  },
+  "transplant": {
+    "id": "transplant",
+    "name": "Gulf Coast Transplant Institute",
+    "role": "Transplant kidney specialists",
+    "critical": true
+  },
+  "im": {
+    "id": "im",
+    "name": "West Houston Internal Medicine",
+    "role": "Primary care and diabetes",
+    "critical": false
+  },
+  "eye": {
+    "id": "eye",
+    "name": "Clear Vision Eye Associates",
+    "role": "Diabetic eye exams",
+    "critical": false
+  },
+  "onc": {
+    "id": "onc",
+    "name": "Bellaire Breast Oncology",
+    "role": "Breast cancer specialist",
+    "critical": true
+  },
+  "img": {
+    "id": "img",
+    "name": "Galleria Imaging",
+    "role": "Mammograms and MRI",
+    "critical": false
+  }
+}

@@ -1,0 +1,29 @@
+name: Check plan document links
+
+# Phase B. Every plan-document URL in the plan datasets comes from the CMS
+# Public Use Files, never from us -- but a URL in a published file can still be
+# dead. This runs on GitHub's network, which can reach insurer domains.
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly, so link rot surfaces without anyone going looking for it.
+    - cron: '17 6 * * 1'
+  pull_request:
+    paths:
+      - 'data/plans/**'
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    name: Fetch every plan document URL
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check:links

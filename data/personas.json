@@ -1,0 +1,30 @@
+{
+  "asOf": "2026-10-06",
+  "_note": "Presentation only. Names, ages, conditions, medications, care team, record counts and projected care are all parsed from the FHIR bundle at runtime by src/fhir/parse.ts. defaultAllowance is 85% of this person's own lowest-cost silver premium -- the share the employer view recommends -- computed by scripts/sync-public-data.ts.",
+  "personas": [
+    {
+      "id": "healthy",
+      "bundle": "data/fhir/healthy.json",
+      "blurb": "healthy, with no visits in the past year",
+      "defaultAllowance": 450
+    },
+    {
+      "id": "pregnancy",
+      "bundle": "data/fhir/pregnancy.json",
+      "blurb": "expecting a baby",
+      "defaultAllowance": 480
+    },
+    {
+      "id": "transplant",
+      "bundle": "data/fhir/transplant.json",
+      "blurb": "kidney transplant and type 2 diabetes on insulin",
+      "defaultAllowance": 1060
+    },
+    {
+      "id": "cancer",
+      "bundle": "data/fhir/cancer.json",
+      "blurb": "cancer, now in follow-up care",
+      "defaultAllowance": 810
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "crosswalk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Two-sided ICHRA decision support: employer class modeling and employee plan choice on one typed engine.",
+  "scripts": {
+    "predev": "tsx scripts/sync-public-data.ts",
+    "dev": "vite",
+    "prebuild": "tsx scripts/sync-public-data.ts",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "coverage": "vitest run --coverage",
+    "personas": "tsx scripts/generate-personas.ts",
+    "import:plans": "tsx scripts/import-cms-puf.ts",
+    "check:links": "tsx scripts/check-links.ts",
+    "screenshots": "node scripts/screenshots.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@vitest/coverage-v8": "^3.2.4",
+    "playwright": "^1.63.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.3",
+    "vitest": "^3.2.4"
+  }
+}
