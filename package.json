@@ -16,11 +16,13 @@
     "coverage": "vitest run --coverage",
     "personas": "tsx scripts/generate-personas.ts",
     "import:plans": "tsx scripts/import-cms-puf.ts",
-    "check:links": "tsx scripts/check-links.ts"
+    "check:links": "tsx scripts/check-links.ts",
+    "screenshots": "node scripts/screenshots.mjs"
   },
   "devDependencies": {
     "@types/node": "^26.6.4",
     "@vitest/coverage-v8": "^3.2.4",
+    "playwright": "^1.63.0",
     "tsx": "^4.20.3",
     "typescript": "^5.9.2",
     "vite": "^7.1.3",
