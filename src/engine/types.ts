@@ -251,3 +251,9 @@ export interface PlanOutcome {
   /** True where the plan would drop critical care. These rank last. */
   readonly disruptsCare: boolean;
 }
+
+/** Loose shape of a priced year, for callers that only need the totals. */
+export interface YearResultLike {
+  readonly outOfPocket: number;
+  readonly byMonth: readonly number[];
+}
