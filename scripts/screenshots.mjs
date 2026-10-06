@@ -30,16 +30,8 @@ const page = await browser.newPage({ viewport: VIEWPORT, deviceScaleFactor: 2 })
 page.on('console', (m) => { if (m.type() === 'error') errors.push(m.text()); });
 page.on('pageerror', (e) => errors.push(e.message));
 
-/**
- * Scroll so `selector` sits just below the sticky header, then capture.
- * `zoom` shrinks the page first, for frames that need to hold more than one
- * viewport's worth -- the verdict and the whole chart, for instance.
- */
-async function shot(name, selector, { target = page, zoom = 1 } = {}) {
-  if (zoom !== 1) {
-    await target.evaluate((z) => { document.documentElement.style.zoom = String(z); }, zoom);
-    await target.waitForTimeout(200);
-  }
+/** Scroll so `selector` sits just below the sticky header, then capture. */
+async function shot(name, selector, { target = page } = {}) {
   if (selector) {
     await target.$eval(selector, (el) => {
       const header = document.querySelector('header.top');
@@ -49,20 +41,14 @@ async function shot(name, selector, { target = page, zoom = 1 } = {}) {
     await target.waitForTimeout(250);
   }
   await target.screenshot({ path: join(OUT, `${name}.png`) });
-  if (zoom !== 1) {
-    await target.evaluate(() => { document.documentElement.style.zoom = ''; });
-  }
   console.log('  ', name);
 }
 
 console.log('Capturing:');
 
-// Employer: the recommendation, which is the whole output of the design search.
+// Employer: the controls, KPIs, rules check and by-class table.
 await page.goto(BASE, { waitUntil: 'networkidle' });
 await page.waitForSelector('#recTitle');
-await shot('employer', '.emp-rec');
-
-// Employer: the controls, KPIs and rules check, further down the same view.
 await shot('employer-controls', '.emp-layout');
 
 // Employee: choosing a person.
@@ -79,13 +65,10 @@ await page.waitForSelector('#foundWrap:not([hidden])', { timeout: 25000 });
 await page.waitForTimeout(700);
 await shot('employee-2-records', '#found');
 
-// Employee: the verdict and the month-by-month chart -- the argument of the view.
+// Employee: the ranked list, where care disruption outranks price.
 await page.click('#compare');
 await page.waitForSelector('#plist .prow', { timeout: 40000 });
 await page.waitForTimeout(600);
-await shot('employee-3-result', '.verdict-block', { zoom: 0.72 });
-
-// Employee: the ranked list, where care disruption outranks price.
 await shot('employee-4-ranked', '.plans');
 
 // Narrow viewport, to show the layout holds. Capped height, not full page.

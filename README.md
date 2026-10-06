@@ -7,19 +7,11 @@
 Synthetic data only. Not insurance, legal, tax, or actuarial advice.
 
 <p>
-  <a href="https://adam-behun.github.io/Crosswalk/?view=employer"><img src="docs/screenshots/employer.png" width="49%" alt="Employer view: the recommended ICHRA design, with the saving to the employer, the saving to employees, and how many come out no worse off"></a>
-  <a href="https://adam-behun.github.io/Crosswalk/?view=employee"><img src="docs/screenshots/employee-3-result.png" width="49%" alt="Employee view: the recommended plan, the ICHRA allowance and affordability note, and a month-by-month comparison against the lowest-premium plan"></a>
-</p>
-
-<details>
-<summary>More screenshots</summary>
-<p>
   <img src="docs/screenshots/employer-controls.png" width="49%" alt="Employer controls: class toggles, the allowance slider, the rules check and the by-class table">
   <img src="docs/screenshots/employee-2-records.png" width="49%" alt="The parsed FHIR record: conditions, prescriptions, care team and projected care">
   <img src="docs/screenshots/employee-4-ranked.png" width="49%" alt="All eight plans ranked, with care-disrupting plans last whatever they cost">
   <img src="docs/screenshots/employee-1-choose.png" width="49%" alt="Choosing which synthetic patient to walk through">
 </p>
-</details>
 
 ---
 
