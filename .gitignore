@@ -1,0 +1,9 @@
+node_modules/
+dist/
+public/
+coverage/
+*.local
+
+# Raw CMS Public Use Files: large, redistributable only from CMS. Only the
+# derived data/plans/harris-2026.json and its provenance file are committed.
+data/cms-puf/
