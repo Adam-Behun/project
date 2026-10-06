@@ -20,3 +20,7 @@ export const persona = (id: string): PatientProfile =>
   parseBundleJson(readFileSync(join(ROOT, 'data', 'fhir', `${id}.json`), 'utf8'), { asOf: AS_OF });
 
 export const PERSONA_IDS = ['healthy', 'pregnancy', 'transplant', 'cancer'] as const;
+
+export const company = () => read<import('../src/engine/employer.js').Company>('data', 'employer', 'company.json');
+export const classOutcomes = () =>
+  read<{ classes: import('../src/engine/employer.js').ClassOutcomes }>('data', 'employer', 'class-outcomes.json').classes;

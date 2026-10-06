@@ -15,7 +15,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.60|premiums_only|guided_best_fit": {
         "employerCost": 1526973,
@@ -30,7 +31,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.60|premiums_only|lowest_cost_gold": {
         "employerCost": 1526973,
@@ -45,7 +47,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.60|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1526973,
@@ -60,7 +63,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.60|premiums_and_bills|guided_best_fit": {
         "employerCost": 1526973,
@@ -75,7 +79,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.60|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1526973,
@@ -90,7 +95,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.65|premiums_only|lowest_cost_silver": {
         "employerCost": 1646420,
@@ -105,7 +111,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.65|premiums_only|guided_best_fit": {
         "employerCost": 1646420,
@@ -120,7 +127,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.65|premiums_only|lowest_cost_gold": {
         "employerCost": 1646420,
@@ -135,7 +143,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.65|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1646420,
@@ -150,7 +159,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.65|premiums_and_bills|guided_best_fit": {
         "employerCost": 1646420,
@@ -165,7 +175,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.65|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1646420,
@@ -180,7 +191,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.70|premiums_only|lowest_cost_silver": {
         "employerCost": 1765868,
@@ -195,7 +207,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.70|premiums_only|guided_best_fit": {
         "employerCost": 1765868,
@@ -210,7 +223,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.70|premiums_only|lowest_cost_gold": {
         "employerCost": 1765868,
@@ -225,7 +239,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.70|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1765868,
@@ -240,7 +255,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.70|premiums_and_bills|guided_best_fit": {
         "employerCost": 1765868,
@@ -255,7 +271,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.70|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1765868,
@@ -270,7 +287,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.75|premiums_only|lowest_cost_silver": {
         "employerCost": 1885316,
@@ -285,7 +303,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.75|premiums_only|guided_best_fit": {
         "employerCost": 1885316,
@@ -300,7 +319,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.75|premiums_only|lowest_cost_gold": {
         "employerCost": 1885316,
@@ -315,7 +335,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.75|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1885316,
@@ -330,7 +351,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.75|premiums_and_bills|guided_best_fit": {
         "employerCost": 1885316,
@@ -345,7 +367,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.75|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1885316,
@@ -360,7 +383,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.80|premiums_only|lowest_cost_silver": {
         "employerCost": 2004764,
@@ -375,7 +399,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.80|premiums_only|guided_best_fit": {
         "employerCost": 2004764,
@@ -390,7 +415,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.80|premiums_only|lowest_cost_gold": {
         "employerCost": 2004764,
@@ -405,7 +431,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.80|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 2004764,
@@ -420,7 +447,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.80|premiums_and_bills|guided_best_fit": {
         "employerCost": 2004764,
@@ -435,7 +463,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.80|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 2004764,
@@ -450,7 +479,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.85|premiums_only|lowest_cost_silver": {
         "employerCost": 2124211,
@@ -465,7 +495,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.85|premiums_only|guided_best_fit": {
         "employerCost": 2121592,
@@ -480,7 +511,8 @@
           "silver": 49,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.85|premiums_only|lowest_cost_gold": {
         "employerCost": 2124211,
@@ -495,7 +527,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.85|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 2124211,
@@ -510,7 +543,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.85|premiums_and_bills|guided_best_fit": {
         "employerCost": 2122687,
@@ -525,7 +559,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.85|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 2124211,
@@ -540,7 +575,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.90|premiums_only|lowest_cost_silver": {
         "employerCost": 2243659,
@@ -555,7 +591,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.90|premiums_only|guided_best_fit": {
         "employerCost": 2211316,
@@ -570,7 +607,8 @@
           "silver": 80,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.90|premiums_only|lowest_cost_gold": {
         "employerCost": 2243659,
@@ -585,7 +623,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.90|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 2243659,
@@ -600,7 +639,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.90|premiums_and_bills|guided_best_fit": {
         "employerCost": 2225531,
@@ -615,7 +655,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.90|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 2243659,
@@ -630,7 +671,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.95|premiums_only|lowest_cost_silver": {
         "employerCost": 2363107,
@@ -645,7 +687,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.95|premiums_only|guided_best_fit": {
         "employerCost": 2357941,
@@ -660,7 +703,8 @@
           "silver": 155,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.95|premiums_only|lowest_cost_gold": {
         "employerCost": 2363107,
@@ -675,7 +719,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.95|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 2363107,
@@ -690,7 +735,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.95|premiums_and_bills|guided_best_fit": {
         "employerCost": 2307231,
@@ -705,7 +751,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "0.95|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 2363107,
@@ -720,7 +767,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "1.00|premiums_only|lowest_cost_silver": {
         "employerCost": 2482555,
@@ -735,7 +783,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "1.00|premiums_only|guided_best_fit": {
         "employerCost": 2380077,
@@ -750,7 +799,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "1.00|premiums_only|lowest_cost_gold": {
         "employerCost": 2482555,
@@ -765,7 +815,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "1.00|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 2482555,
@@ -780,7 +831,8 @@
           "silver": 156,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "1.00|premiums_and_bills|guided_best_fit": {
         "employerCost": 2366680,
@@ -795,7 +847,8 @@
           "silver": 46,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       },
       "1.00|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 2482555,
@@ -810,7 +863,8 @@
           "silver": 0,
           "gold": 156,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 156
       }
     },
     "ny_sal": {
@@ -827,7 +881,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.60|premiums_only|guided_best_fit": {
         "employerCost": 1208829,
@@ -842,7 +897,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.60|premiums_only|lowest_cost_gold": {
         "employerCost": 1208829,
@@ -857,7 +913,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.60|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1208829,
@@ -872,7 +929,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.60|premiums_and_bills|guided_best_fit": {
         "employerCost": 1208829,
@@ -887,7 +945,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.60|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1208829,
@@ -902,7 +961,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.65|premiums_only|lowest_cost_silver": {
         "employerCost": 1304264,
@@ -917,7 +977,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.65|premiums_only|guided_best_fit": {
         "employerCost": 1304264,
@@ -932,7 +993,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.65|premiums_only|lowest_cost_gold": {
         "employerCost": 1304264,
@@ -947,7 +1009,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.65|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1304264,
@@ -962,7 +1025,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.65|premiums_and_bills|guided_best_fit": {
         "employerCost": 1304264,
@@ -977,7 +1041,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.65|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1304264,
@@ -992,7 +1057,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.70|premiums_only|lowest_cost_silver": {
         "employerCost": 1399700,
@@ -1007,7 +1073,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.70|premiums_only|guided_best_fit": {
         "employerCost": 1399700,
@@ -1022,7 +1089,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.70|premiums_only|lowest_cost_gold": {
         "employerCost": 1399700,
@@ -1037,7 +1105,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.70|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1399700,
@@ -1052,7 +1121,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.70|premiums_and_bills|guided_best_fit": {
         "employerCost": 1399700,
@@ -1067,7 +1137,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.70|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1399700,
@@ -1082,7 +1153,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.75|premiums_only|lowest_cost_silver": {
         "employerCost": 1495136,
@@ -1097,7 +1169,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.75|premiums_only|guided_best_fit": {
         "employerCost": 1495136,
@@ -1112,7 +1185,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.75|premiums_only|lowest_cost_gold": {
         "employerCost": 1495136,
@@ -1127,7 +1201,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.75|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1495136,
@@ -1142,7 +1217,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.75|premiums_and_bills|guided_best_fit": {
         "employerCost": 1495136,
@@ -1157,7 +1233,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.75|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1495136,
@@ -1172,7 +1249,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.80|premiums_only|lowest_cost_silver": {
         "employerCost": 1590571,
@@ -1187,7 +1265,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.80|premiums_only|guided_best_fit": {
         "employerCost": 1589280,
@@ -1202,7 +1281,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.80|premiums_only|lowest_cost_gold": {
         "employerCost": 1590571,
@@ -1217,7 +1297,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.80|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1590571,
@@ -1232,7 +1313,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.80|premiums_and_bills|guided_best_fit": {
         "employerCost": 1590571,
@@ -1247,7 +1329,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.80|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1590571,
@@ -1262,7 +1345,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.85|premiums_only|lowest_cost_silver": {
         "employerCost": 1686007,
@@ -1277,7 +1361,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.85|premiums_only|guided_best_fit": {
         "employerCost": 1644247,
@@ -1292,7 +1377,8 @@
           "silver": 3,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.85|premiums_only|lowest_cost_gold": {
         "employerCost": 1686007,
@@ -1307,7 +1393,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.85|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1686007,
@@ -1322,7 +1409,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.85|premiums_and_bills|guided_best_fit": {
         "employerCost": 1671079,
@@ -1337,7 +1425,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.85|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1686007,
@@ -1352,7 +1441,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.90|premiums_only|lowest_cost_silver": {
         "employerCost": 1781443,
@@ -1367,7 +1457,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.90|premiums_only|guided_best_fit": {
         "employerCost": 1655039,
@@ -1382,7 +1473,8 @@
           "silver": 10,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.90|premiums_only|lowest_cost_gold": {
         "employerCost": 1781443,
@@ -1397,7 +1489,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.90|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1781443,
@@ -1412,7 +1505,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.90|premiums_and_bills|guided_best_fit": {
         "employerCost": 1737620,
@@ -1427,7 +1521,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.90|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1781443,
@@ -1442,7 +1537,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.95|premiums_only|lowest_cost_silver": {
         "employerCost": 1876879,
@@ -1457,7 +1553,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.95|premiums_only|guided_best_fit": {
         "employerCost": 1744027,
@@ -1472,7 +1569,8 @@
           "silver": 41,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.95|premiums_only|lowest_cost_gold": {
         "employerCost": 1876879,
@@ -1487,7 +1585,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.95|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1876879,
@@ -1502,7 +1601,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.95|premiums_and_bills|guided_best_fit": {
         "employerCost": 1794843,
@@ -1517,7 +1617,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "0.95|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1876879,
@@ -1532,7 +1633,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "1.00|premiums_only|lowest_cost_silver": {
         "employerCost": 1972314,
@@ -1547,7 +1649,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "1.00|premiums_only|guided_best_fit": {
         "employerCost": 1957110,
@@ -1562,7 +1665,8 @@
           "silver": 100,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "1.00|premiums_only|lowest_cost_gold": {
         "employerCost": 1972314,
@@ -1577,7 +1681,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "1.00|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1972314,
@@ -1592,7 +1697,8 @@
           "silver": 106,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "1.00|premiums_and_bills|guided_best_fit": {
         "employerCost": 1841722,
@@ -1607,7 +1713,8 @@
           "silver": 2,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       },
       "1.00|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1972314,
@@ -1622,7 +1729,8 @@
           "silver": 0,
           "gold": 106,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 106
       }
     },
     "nj_hr": {
@@ -1639,7 +1747,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 44
       },
       "0.60|premiums_only|guided_best_fit": {
         "employerCost": 631813,
@@ -1654,7 +1763,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 44
       },
       "0.60|premiums_only|lowest_cost_gold": {
         "employerCost": 631813,
@@ -1669,7 +1779,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 44
       },
       "0.60|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 631813,
@@ -1684,7 +1795,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 44
       },
       "0.60|premiums_and_bills|guided_best_fit": {
         "employerCost": 631813,
@@ -1699,7 +1811,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 44
       },
       "0.60|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 631813,
@@ -1714,7 +1827,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 44
       },
       "0.65|premiums_only|lowest_cost_silver": {
         "employerCost": 681414,
@@ -1729,7 +1843,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 46
       },
       "0.65|premiums_only|guided_best_fit": {
         "employerCost": 681414,
@@ -1744,7 +1859,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 46
       },
       "0.65|premiums_only|lowest_cost_gold": {
         "employerCost": 681414,
@@ -1759,7 +1875,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 46
       },
       "0.65|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 681414,
@@ -1774,7 +1891,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 46
       },
       "0.65|premiums_and_bills|guided_best_fit": {
         "employerCost": 681414,
@@ -1789,7 +1907,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 46
       },
       "0.65|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 681414,
@@ -1804,7 +1923,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 46
       },
       "0.70|premiums_only|lowest_cost_silver": {
         "employerCost": 731015,
@@ -1819,7 +1939,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 54
       },
       "0.70|premiums_only|guided_best_fit": {
         "employerCost": 731015,
@@ -1834,7 +1955,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 54
       },
       "0.70|premiums_only|lowest_cost_gold": {
         "employerCost": 731015,
@@ -1849,7 +1971,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 54
       },
       "0.70|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 731015,
@@ -1864,7 +1987,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 54
       },
       "0.70|premiums_and_bills|guided_best_fit": {
         "employerCost": 731015,
@@ -1879,7 +2003,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 54
       },
       "0.70|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 731015,
@@ -1894,7 +2019,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 54
       },
       "0.75|premiums_only|lowest_cost_silver": {
         "employerCost": 780616,
@@ -1909,7 +2035,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 59
       },
       "0.75|premiums_only|guided_best_fit": {
         "employerCost": 780616,
@@ -1924,7 +2051,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 59
       },
       "0.75|premiums_only|lowest_cost_gold": {
         "employerCost": 780616,
@@ -1939,7 +2067,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 59
       },
       "0.75|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 780616,
@@ -1954,7 +2083,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 59
       },
       "0.75|premiums_and_bills|guided_best_fit": {
         "employerCost": 780616,
@@ -1969,7 +2099,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 59
       },
       "0.75|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 780616,
@@ -1984,7 +2115,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 59
       },
       "0.80|premiums_only|lowest_cost_silver": {
         "employerCost": 830217,
@@ -1999,7 +2131,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.80|premiums_only|guided_best_fit": {
         "employerCost": 830217,
@@ -2014,7 +2147,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.80|premiums_only|lowest_cost_gold": {
         "employerCost": 830217,
@@ -2029,7 +2163,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.80|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 830217,
@@ -2044,7 +2179,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.80|premiums_and_bills|guided_best_fit": {
         "employerCost": 830217,
@@ -2059,7 +2195,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.80|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 830217,
@@ -2074,7 +2211,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.85|premiums_only|lowest_cost_silver": {
         "employerCost": 879818,
@@ -2089,7 +2227,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.85|premiums_only|guided_best_fit": {
         "employerCost": 879178,
@@ -2104,7 +2243,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.85|premiums_only|lowest_cost_gold": {
         "employerCost": 879818,
@@ -2119,7 +2259,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.85|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 879818,
@@ -2134,7 +2275,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.85|premiums_and_bills|guided_best_fit": {
         "employerCost": 879470,
@@ -2149,7 +2291,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.85|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 879818,
@@ -2164,7 +2307,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.90|premiums_only|lowest_cost_silver": {
         "employerCost": 929419,
@@ -2179,7 +2323,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.90|premiums_only|guided_best_fit": {
         "employerCost": 910847,
@@ -2194,7 +2339,8 @@
           "silver": 16,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.90|premiums_only|lowest_cost_gold": {
         "employerCost": 929419,
@@ -2209,7 +2355,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.90|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 929419,
@@ -2224,7 +2371,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.90|premiums_and_bills|guided_best_fit": {
         "employerCost": 923266,
@@ -2239,7 +2387,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.90|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 929419,
@@ -2254,7 +2403,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.95|premiums_only|lowest_cost_silver": {
         "employerCost": 979020,
@@ -2269,7 +2419,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.95|premiums_only|guided_best_fit": {
         "employerCost": 974304,
@@ -2284,7 +2435,8 @@
           "silver": 60,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.95|premiums_only|lowest_cost_gold": {
         "employerCost": 979020,
@@ -2299,7 +2451,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.95|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 979020,
@@ -2314,7 +2467,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.95|premiums_and_bills|guided_best_fit": {
         "employerCost": 956555,
@@ -2329,7 +2483,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "0.95|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 979020,
@@ -2344,7 +2499,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "1.00|premiums_only|lowest_cost_silver": {
         "employerCost": 1028622,
@@ -2359,7 +2515,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "1.00|premiums_only|guided_best_fit": {
         "employerCost": 985681,
@@ -2374,7 +2531,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "1.00|premiums_only|lowest_cost_gold": {
         "employerCost": 1028622,
@@ -2389,7 +2547,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "1.00|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1028622,
@@ -2404,7 +2563,8 @@
           "silver": 61,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "1.00|premiums_and_bills|guided_best_fit": {
         "employerCost": 982530,
@@ -2419,7 +2579,8 @@
           "silver": 8,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       },
       "1.00|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1028622,
@@ -2434,7 +2595,8 @@
           "silver": 0,
           "gold": 61,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 61
       }
     },
     "tx_hr": {
@@ -2451,7 +2613,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 55
       },
       "0.60|premiums_only|guided_best_fit": {
         "employerCost": 882223,
@@ -2466,7 +2629,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 55
       },
       "0.60|premiums_only|lowest_cost_gold": {
         "employerCost": 882223,
@@ -2481,7 +2645,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 55
       },
       "0.60|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 882223,
@@ -2496,7 +2661,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 55
       },
       "0.60|premiums_and_bills|guided_best_fit": {
         "employerCost": 882223,
@@ -2511,7 +2677,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 55
       },
       "0.60|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 882223,
@@ -2526,7 +2693,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 55
       },
       "0.65|premiums_only|lowest_cost_silver": {
         "employerCost": 951541,
@@ -2541,7 +2709,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 63
       },
       "0.65|premiums_only|guided_best_fit": {
         "employerCost": 945756,
@@ -2556,7 +2725,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 63
       },
       "0.65|premiums_only|lowest_cost_gold": {
         "employerCost": 951541,
@@ -2571,7 +2741,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 63
       },
       "0.65|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 951541,
@@ -2586,7 +2757,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 63
       },
       "0.65|premiums_and_bills|guided_best_fit": {
         "employerCost": 950203,
@@ -2601,7 +2773,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 63
       },
       "0.65|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 951541,
@@ -2616,7 +2789,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 63
       },
       "0.70|premiums_only|lowest_cost_silver": {
         "employerCost": 1020860,
@@ -2631,7 +2805,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 68
       },
       "0.70|premiums_only|guided_best_fit": {
         "employerCost": 961249,
@@ -2646,7 +2821,8 @@
           "silver": 1,
           "gold": 11,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 68
       },
       "0.70|premiums_only|lowest_cost_gold": {
         "employerCost": 1020860,
@@ -2661,7 +2837,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 68
       },
       "0.70|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1020860,
@@ -2676,7 +2853,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 68
       },
       "0.70|premiums_and_bills|guided_best_fit": {
         "employerCost": 996783,
@@ -2691,7 +2869,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 68
       },
       "0.70|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1020860,
@@ -2706,7 +2885,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 68
       },
       "0.75|premiums_only|lowest_cost_silver": {
         "employerCost": 1090179,
@@ -2721,7 +2901,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 74
       },
       "0.75|premiums_only|guided_best_fit": {
         "employerCost": 983448,
@@ -2736,7 +2917,8 @@
           "silver": 1,
           "gold": 22,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 74
       },
       "0.75|premiums_only|lowest_cost_gold": {
         "employerCost": 1090179,
@@ -2751,7 +2933,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 74
       },
       "0.75|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1090179,
@@ -2766,7 +2949,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 74
       },
       "0.75|premiums_and_bills|guided_best_fit": {
         "employerCost": 1030009,
@@ -2781,7 +2965,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 74
       },
       "0.75|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1090179,
@@ -2796,7 +2981,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 74
       },
       "0.80|premiums_only|lowest_cost_silver": {
         "employerCost": 1159497,
@@ -2811,7 +2997,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 82
       },
       "0.80|premiums_only|guided_best_fit": {
         "employerCost": 1061938,
@@ -2826,7 +3013,8 @@
           "silver": 1,
           "gold": 44,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 82
       },
       "0.80|premiums_only|lowest_cost_gold": {
         "employerCost": 1159497,
@@ -2841,7 +3029,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 82
       },
       "0.80|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1159497,
@@ -2856,7 +3045,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 82
       },
       "0.80|premiums_and_bills|guided_best_fit": {
         "employerCost": 1055718,
@@ -2871,7 +3061,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 82
       },
       "0.80|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1159497,
@@ -2886,7 +3077,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 82
       },
       "0.85|premiums_only|lowest_cost_silver": {
         "employerCost": 1228816,
@@ -2901,7 +3093,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.85|premiums_only|guided_best_fit": {
         "employerCost": 1194873,
@@ -2916,7 +3109,8 @@
           "silver": 1,
           "gold": 72,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.85|premiums_only|lowest_cost_gold": {
         "employerCost": 1228816,
@@ -2931,7 +3125,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.85|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1228816,
@@ -2946,7 +3141,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.85|premiums_and_bills|guided_best_fit": {
         "employerCost": 1078546,
@@ -2961,7 +3157,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.85|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1228816,
@@ -2976,7 +3173,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.90|premiums_only|lowest_cost_silver": {
         "employerCost": 1298134,
@@ -2991,7 +3189,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.90|premiums_only|guided_best_fit": {
         "employerCost": 1258736,
@@ -3006,7 +3205,8 @@
           "silver": 2,
           "gold": 81,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.90|premiums_only|lowest_cost_gold": {
         "employerCost": 1258761,
@@ -3021,7 +3221,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.90|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1298134,
@@ -3036,7 +3237,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.90|premiums_and_bills|guided_best_fit": {
         "employerCost": 1096966,
@@ -3051,7 +3253,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.90|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1283097,
@@ -3066,7 +3269,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.95|premiums_only|lowest_cost_silver": {
         "employerCost": 1367453,
@@ -3081,7 +3285,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.95|premiums_only|guided_best_fit": {
         "employerCost": 1271025,
@@ -3096,7 +3301,8 @@
           "silver": 3,
           "gold": 81,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.95|premiums_only|lowest_cost_gold": {
         "employerCost": 1260719,
@@ -3111,7 +3317,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.95|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1367453,
@@ -3126,7 +3333,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.95|premiums_and_bills|guided_best_fit": {
         "employerCost": 1110770,
@@ -3141,7 +3349,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "0.95|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1316074,
@@ -3156,7 +3365,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "1.00|premiums_only|lowest_cost_silver": {
         "employerCost": 1436771,
@@ -3171,7 +3381,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "1.00|premiums_only|guided_best_fit": {
         "employerCost": 1289764,
@@ -3186,7 +3397,8 @@
           "silver": 9,
           "gold": 75,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "1.00|premiums_only|lowest_cost_gold": {
         "employerCost": 1260719,
@@ -3201,7 +3413,8 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "1.00|premiums_and_bills|lowest_cost_silver": {
         "employerCost": 1436771,
@@ -3216,7 +3429,8 @@
           "silver": 84,
           "gold": 0,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "1.00|premiums_and_bills|guided_best_fit": {
         "employerCost": 1121877,
@@ -3231,7 +3445,8 @@
           "silver": 1,
           "gold": 7,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       },
       "1.00|premiums_and_bills|lowest_cost_gold": {
         "employerCost": 1339303,
@@ -3246,8 +3461,10 @@
           "silver": 0,
           "gold": 84,
           "platinum": 0
-        }
+        },
+        "affordableOffers": 84
       }
     }
-  }
+  },
+  "_note": "Precomputed output from the household-level model described in company.json meta.sources. Each key is allowanceShare|scope|purchaseMode. sameOrBetterOff and affordableOffers are counts of enrolled employees, modelled per household against that household's own premiums, claims and wages -- which is why they cannot be reproduced from a class average."
 }
