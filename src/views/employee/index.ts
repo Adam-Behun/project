@@ -169,7 +169,10 @@ function assumptions(): string {
   <ul>
     <li><strong>Plans.</strong> ${esc(data.dataset.source)}</li>
     <li><strong>People.</strong> Synthetic patients from Synthea, read from FHIR R4 bundles. Clinic
-      and hospital names are fictional.</li>
+      and hospital names are fictional. Values are shown as parsed, not cleaned up: Synthea's
+      generated lab results are not always clinically coherent with the conditions it generated
+      alongside them, so a value here may read oddly against the diagnosis beside it. That is the
+      synthetic data, not the parser &mdash; and silently correcting it would be worse.</li>
     <li><strong>Next year's care</strong> is projected from each person's conditions and medications
       using clinical rules, plus random illness, injury and complications scaled by age and by how
       much chronic illness is on the record. Each plan is tested on the same

@@ -13,7 +13,10 @@ const BASE = process.env.BASE_URL ?? 'http://localhost:4173/crosswalk/';
 const OUT = resolve(import.meta.dirname, '..', 'docs', 'screenshots');
 mkdirSync(OUT, { recursive: true });
 
-const browser = await chromium.launch();
+// CHROMIUM_PATH lets a preinstalled Chromium be used where the Playwright
+// version here does not match the downloaded browser revision.
+const executablePath = process.env.CHROMIUM_PATH;
+const browser = await chromium.launch(executablePath ? { executablePath } : {});
 const errors = [];
 
 const page = await browser.newPage({ viewport: { width: 1400, height: 1000 }, deviceScaleFactor: 2 });
